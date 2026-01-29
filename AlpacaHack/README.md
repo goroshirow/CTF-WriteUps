@@ -11,6 +11,7 @@
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
 - [Basic Buffer Overflow](./20260112_Basic%20Buffer%20Overflow/)
+- [shellcode-101](./20260129_shellcode-101/)
 
 ## Rev
 - [Useful Machine](./20251226_Useful%20Machine/)
