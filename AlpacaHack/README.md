@@ -7,6 +7,7 @@
 - [Square RSA](./20260107_Square%20RSA/)
 - [Paca Paca Authenticator](./20260124_Paca%20Paca%20Authenticator/)
 - [ToyPQC](./20260127_ToyPQC/)
+- [Linear Coffee Generator](./20260130_Linear%20Coffee%20Generator/)
 
 ## Pwn
 - [simpleoverwrite](./20251227_simpleoverwrite/)
