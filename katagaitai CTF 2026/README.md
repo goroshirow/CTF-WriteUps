@@ -1,4 +1,4 @@
-# katagaitai CTF
+# katagaitai CTF 2026
 
 ## Pwn
 * [firstpwn](./firstpwn)
