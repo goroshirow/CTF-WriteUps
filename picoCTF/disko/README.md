@@ -1,0 +1,34 @@
+---
+title: "PicoCTF DISKO Writeup"
+tags: [".dd", "Forensic"]
+---
+# DISKO 2
+
+```sh
+$ mmls disko-2.dd # パーティション構成
+      Slot      Start        End          Length       Description
+000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+001:  -------   0000000000   0000002047   0000002048   Unallocated
+002:  000:000   0000002048   0000053247   0000051200   Linux (0x83)
+003:  000:001   0000053248   0000118783   0000065536   Win95 FAT32 (0x0b)
+004:  -------   0000118784   0000204799   0000086016   Unallocated
+
+$ dd if=./disko-2.dd of=disk1.dd skip=2048 count=51200
+$ strings partition1.dd | grep picoCTF
+```
+* if: input file
+* of: output file
+* skip: ここから
+* count: ここまで
+
+# DISKO 3
+
+The Sleuth Kitで調査
+```sh
+$ fls -r disko-3.dd
+...
++ r/r 522628:   flag.gz
+...
+
+$ icat disko-3.dd 522628 > flag.gz
+```
