@@ -19,12 +19,14 @@
 ## Rev
 - [Useful Machine](./2025Dec/Useful%20Machine/)
 - [cha-ll-enge](./2025Dec/cha-ll-enge/)
+    LLVM
 - [Ruby Flag Checker](./2026Jan/Ruby%20Flag%20Checker/)
 - [crazython](./2026Jan/crazython/)
 - [system-v](./2026Jan/system-v/)
 
 ## Web
 - [Xmas Login](./2025Dec/Xmas%20Login/)
+    SQLi
 - [Fushigi Crawler](./2026Jan/Fushigi%20Crawler/)
 - [secret-table](./2026Jan/secret-table/)
 - [Animal Viewer](./2026Jan/Animal%20Viewer/)
