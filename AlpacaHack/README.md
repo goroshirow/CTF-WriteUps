@@ -15,6 +15,8 @@
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
 - [Basic Buffer Overflow](./2026Jan/Basic%20Buffer%20Overflow/)
 - [shellcode-101](./2026Jan/shellcode-101/)
+- [Alpaca-Llama Ranch](./2026Feb/Alpaca-Llama%20Ranch/)
+    Overflow
 
 ## Rev
 - [Useful Machine](./2025Dec/Useful%20Machine/)
