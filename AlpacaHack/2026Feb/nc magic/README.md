@@ -3,7 +3,7 @@ title: "Daily Alpacahack nc magic Writeup"
 tags: ["nc", "Misc"]
 ---
 
-# AAAAAAAAEEEEEEEESSSSSSSS
+# nc magic
 
 ## / Overview
 
