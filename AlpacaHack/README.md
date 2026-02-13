@@ -51,3 +51,4 @@
 - [The World](./2026Feb/The%20World/)
 - [Compressor](./2026Feb/Compressor/)
     Deflate
+- [nc magic](./2026Feb/nc%20magic/)
