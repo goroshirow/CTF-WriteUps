@@ -14,6 +14,8 @@
     AES-ECB, CPA
 - [Alpaillier](./2026Feb/Alpaillier/)
     乱数固定Paillier
+- [One Byte Padding Oracle Attack](./2026Feb/One%20Byte%20Padding%20Oracle%20Attack/)
+    1バイトパディングオラクル攻撃
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
