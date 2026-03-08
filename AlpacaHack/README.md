@@ -60,3 +60,5 @@
 - [Compressor](./2026Feb/Compressor/)
     Deflate
 - [nc magic](./2026Feb/nc%20magic/)
+- [guess.js](./2026Mar/guess.js/)
+  js Function
