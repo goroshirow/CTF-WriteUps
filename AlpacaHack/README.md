@@ -62,3 +62,4 @@
 - [nc magic](./2026Feb/nc%20magic/)
 - [guess.js](./2026Mar/guess.js/)
   js Function
+- [100](./2026Mar/100/)
