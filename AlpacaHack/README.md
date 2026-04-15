@@ -17,6 +17,8 @@
 - [One Byte Padding Oracle Attack](./2026Feb/One%20Byte%20Padding%20Oracle%20Attack/)
     1バイトパディングオラクル攻撃
 - [high and low](./2026Mar/high%20and%20low/)
+- [The Horn](./2026Apr/The%20Horn/)
+- [wither](./2026Apr/wither/)
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
@@ -46,6 +48,7 @@
 - [Inu Profile](./2026Feb/Inu%20Profile/)
     プロトタイプ汚染
 - [Rock Paper Scissors Lizard Spock](./2026Feb/Rock%20Paper%20Scissors%20Lizard%20Spock/)
+- [No Content](./2026Apr/No%20Content/)
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
@@ -63,3 +66,4 @@
 - [guess.js](./2026Mar/guess.js/)
   js Function
 - [100](./2026Mar/100/)
+- [1️⃣](./2026Apr/1️⃣/)
