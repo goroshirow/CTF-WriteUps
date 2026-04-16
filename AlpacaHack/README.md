@@ -49,6 +49,8 @@
     プロトタイプ汚染
 - [Rock Paper Scissors Lizard Spock](./2026Feb/Rock%20Paper%20Scissors%20Lizard%20Spock/)
 - [No Content](./2026Apr/No%20Content/)
+- [One More Login Challenge](./2026Apr/One%20More%20Login%20Challenge/)
+    NoSQLi/MongoDB
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
