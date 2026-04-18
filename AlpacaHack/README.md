@@ -19,6 +19,8 @@
 - [high and low](./2026Mar/high%20and%20low/)
 - [The Horn](./2026Apr/The%20Horn/)
 - [wither](./2026Apr/wither/)
+- [super_simultaneous_equations](./2026Apr/super_simultaneous_equations/)
+    非線形連立方程式/グレブナー基底
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
