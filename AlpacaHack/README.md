@@ -53,6 +53,8 @@
 - [No Content](./2026Apr/No%20Content/)
 - [One More Login Challenge](./2026Apr/One%20More%20Login%20Challenge/)
     NoSQLi/MongoDB
+- [HTML2PNG](./2026Apr/HTML2PNG/)
+    LFI/SOP
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
