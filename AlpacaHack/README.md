@@ -21,6 +21,7 @@
 - [wither](./2026Apr/wither/)
 - [super_simultaneous_equations](./2026Apr/super_simultaneous_equations/)
     非線形連立方程式/グレブナー基底
+- [fake-shuffle-proof](./2026Apr/fake-shuffle-proof/)
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
