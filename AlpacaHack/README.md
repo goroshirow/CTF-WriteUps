@@ -75,3 +75,5 @@
 - [100](./2026Mar/100/)
 - [1️⃣](./2026Apr/1️⃣/)
 - [flag obfuscation](./2026Apr/flag%20obfuscation/)
+- [isNan](./2026Apr/isNan/)
+    倍精度浮動小数点数
