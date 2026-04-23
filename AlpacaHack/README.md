@@ -56,6 +56,8 @@
     NoSQLi/MongoDB
 - [HTML2PNG](./2026Apr/HTML2PNG/)
     LFI/SOP
+- [Rate My Alpaca](./2026Apr/Rate%20My%20Alpaca/)
+  PHP
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
