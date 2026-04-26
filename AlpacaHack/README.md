@@ -46,9 +46,12 @@
 - [Xmas Login](./2025Dec/Xmas%20Login/)
     SQLi
 - [Fushigi Crawler](./2026Jan/Fushigi%20Crawler/)
+    Admin Bot
 - [secret-table](./2026Jan/secret-table/)
 - [Animal Viewer](./2026Jan/Animal%20Viewer/)
+    Admin Bot
 - [Stateless Auth](./2026Jan/Stateless%20Auth/)
+    JWT
 - [No JS](./2026Jan/No%20JS/)
 - [Inu Profile](./2026Feb/Inu%20Profile/)
     プロトタイプ汚染
@@ -60,6 +63,8 @@
     LFI/SOP
 - [Rate My Alpaca](./2026Apr/Rate%20My%20Alpaca/)
   PHP
+- [Small Image Uploader](./2026Apr/Small%20Image%20Uploader/)
+    Admin Bot/ディレクトリトラバーサル
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
