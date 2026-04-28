@@ -88,3 +88,5 @@
     倍精度浮動小数点数
 - [Image Python](./2026Apr/Image%20Python/)
     PyJail/fileコマンド
+- [Unrevealed TXT](./2026Apr/Unrevealed%20TXT/)
+    DNSゾーン転送
