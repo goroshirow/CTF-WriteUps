@@ -92,3 +92,4 @@
     DNSゾーン転送
 - [unhead](./2026Apr/unhead/)
     pyjail/audit hooks
+- [permission denied 2](./2026Apr/permission%20denied%202/)
