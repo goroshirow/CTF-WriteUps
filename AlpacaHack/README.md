@@ -65,6 +65,7 @@
   PHP
 - [Small Image Uploader](./2026Apr/Small%20Image%20Uploader/)
     Admin Bot/ディレクトリトラバーサル
+- [Alpaca Rangers 2](./2026May/Alpaca%20Rangers%202/)
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
