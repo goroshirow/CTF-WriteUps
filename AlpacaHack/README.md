@@ -49,6 +49,7 @@
 - [Fushigi Crawler](./2026Jan/Fushigi%20Crawler/)
     Admin Bot
 - [secret-table](./2026Jan/secret-table/)
+    Union-Based SQLi
 - [Animal Viewer](./2026Jan/Animal%20Viewer/)
     Admin Bot
 - [Stateless Auth](./2026Jan/Stateless%20Auth/)
@@ -67,6 +68,8 @@
 - [Small Image Uploader](./2026Apr/Small%20Image%20Uploader/)
     Admin Bot/ディレクトリトラバーサル
 - [Alpaca Rangers 2](./2026May/Alpaca%20Rangers%202/)
+- [secret-table-2](./2026May/secret-table-2/)
+    Union-Based SQLi
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
