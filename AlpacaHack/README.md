@@ -98,3 +98,5 @@
 - [unhead](./2026Apr/unhead/)
     pyjail/audit hooks
 - [permission denied 2](./2026Apr/permission%20denied%202/)
+- [do the math](./2026May/do%20the%20math/README.md)
+    shell
