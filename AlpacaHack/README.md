@@ -34,6 +34,7 @@
     Overflow
 - [simple ROP](./2026Feb/simple%20ROP/)
     ROPチェーン
+- [func-array](./2026May/func-array/)
 
 ## Rev
 - [Useful Machine](./2025Dec/Useful%20Machine/)
