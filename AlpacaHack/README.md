@@ -101,3 +101,4 @@
 - [permission denied 2](./2026Apr/permission%20denied%202/)
 - [do the math](./2026May/do%20the%20math/README.md)
     shell
+- [permission denied 3](./2026May/permisson%20denied%203/)
