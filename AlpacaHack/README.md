@@ -102,3 +102,4 @@
 - [do the math](./2026May/do%20the%20math/README.md)
     shell
 - [permission denied 3](./2026May/permisson%20denied%203/)
+- [Vending Machine](./2026May/Vending%20Machine/)
