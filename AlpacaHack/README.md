@@ -25,6 +25,8 @@
 - [Camelid Match](./2026Apr/Camelid%20Match/)
 - [multi-xor](./2026Apr/multi-xor/)
 - [Small N](./2026May/Small%20N/)
+- [reused n](./2026May/reused%20n/)
+    RSA/Common Modulus Attack
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
