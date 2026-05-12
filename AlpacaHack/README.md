@@ -107,3 +107,4 @@
 - [permission denied 3](./2026May/permisson%20denied%203/)
 - [Vending Machine](./2026May/Vending%20Machine/)
 - [Mirage](./2026May/Mirage/)
+- [hidden service](./2026May/hidden%20service/)
