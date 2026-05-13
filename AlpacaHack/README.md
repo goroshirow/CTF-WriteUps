@@ -108,3 +108,6 @@
 - [Vending Machine](./2026May/Vending%20Machine/)
 - [Mirage](./2026May/Mirage/)
 - [hidden service](./2026May/hidden%20service/)
+    Docker
+- [Super Short Python Golf](./2026May/Super%20Short%20Python%20Golf/)
+    Pyjail/help()
