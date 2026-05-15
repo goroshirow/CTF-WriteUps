@@ -27,6 +27,7 @@
 - [Small N](./2026May/Small%20N/)
 - [reused n](./2026May/reused%20n/)
     RSA/Common Modulus Attack
+- [Equation Cipher](./2026May/Equation%20Cipher/)
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
