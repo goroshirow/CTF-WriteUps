@@ -75,6 +75,8 @@
 - [Alpaca Rangers 2](./2026May/Alpaca%20Rangers%202/)
 - [secret-table-2](./2026May/secret-table-2/)
     Union-Based SQLi
+- [curl as a service](./2026May/curl%20as%20a%20service/)
+    curl/sftp
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
