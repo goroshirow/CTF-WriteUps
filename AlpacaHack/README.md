@@ -79,6 +79,8 @@
     Union-Based SQLi
 - [curl as a service](./2026May/curl%20as%20a%20service/)
     curl/sftp
+- [curl as a service 2](./2026May/curl%20as%20a%20service%202/)
+    curl/gopher
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
