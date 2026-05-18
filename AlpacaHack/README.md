@@ -81,6 +81,7 @@
     curl/sftp
 - [curl as a service 2](./2026May/curl%20as%20a%20service%202/)
     curl/gopher
+- [Flag For Switch](./2026May/Flag%20for%20Switch/)
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
