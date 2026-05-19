@@ -28,6 +28,8 @@
 - [reused n](./2026May/reused%20n/)
     RSA/Common Modulus Attack
 - [Equation Cipher](./2026May/Equation%20Cipher/)
+- [Small d](./2026May/Small%20d/)
+    RSA/小さい秘密鍵
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
