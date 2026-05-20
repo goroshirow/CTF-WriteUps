@@ -21,7 +21,7 @@ res.type("html").sendFile(path.join(import.meta.dirname, `choices/${choice}`));
 
 文字列以外で送りつける方法を探していると、`express.urlencoded({ extended: false })`は**文字列**と**配列**をパースするという情報を見つけました。[[1]](https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded)
 
-配列を使えるなら`choice.length`は文字の長さではなく、配列の要素数として扱われそうです。さらに調査を進めると、パースには`querystring`ライブラリを使っており[[2]](https://stackoverflow.com/questions/56751378/could-you-please-the-optionextended-false-used-in-express-urlencoded)、ソースコードを見ると次のように配列が作られることが分かりました。
+配列を使えるなら`choice.length`は文字の長さではなく、配列の要素数として扱われそうです。さらに調査を進めると、パースには`querystring`ライブラリを使っており[[2]](https://stackoverflow.com/questions/56751378/could-you-please-the-optionextended-false-used-in-express-urlencoded)、ソースコードを見ると次のように配列が作られることが分かりました[[3]](https://github.com/Gozala/querystring/blob/master/decode.js)。
 
 ```js
 if (!hasOwnProperty(obj, k)) {
