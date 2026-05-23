@@ -30,6 +30,8 @@
 - [Equation Cipher](./2026May/Equation%20Cipher/)
 - [Small d](./2026May/Small%20d/)
     RSA/小さい秘密鍵
+- [Even Worse RSA](./2026May/Even%20Worse%20RSA/)
+    有限体上のn乗根
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
