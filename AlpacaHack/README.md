@@ -53,6 +53,7 @@
 - [Ruby Flag Checker](./2026Jan/Ruby%20Flag%20Checker/)
 - [crazython](./2026Jan/crazython/)
 - [system-v](./2026Jan/system-v/)
+- [Conquer Ultimate Device Abyss](./2026May/Conquer%20Ultimate%20Device%20Abyss/)
 
 ## Web
 - [Xmas Login](./2025Dec/Xmas%20Login/)
