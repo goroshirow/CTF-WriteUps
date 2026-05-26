@@ -32,6 +32,8 @@
     RSA/小さい秘密鍵
 - [Even Worse RSA](./2026May/Even%20Worse%20RSA/)
     有限体上のn乗根
+- [I cannot decrypt RSA](./2026May/I%20cannot%20decrypt%20RSA/)
+    RSA/$`\phi=(p+1)(q+1)`$
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
