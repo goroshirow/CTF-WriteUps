@@ -90,6 +90,8 @@
     curl/gopher
 - [Flag For Switch](./2026May/Flag%20for%20Switch/)
 - [Kakuzuke](./2026May/Kakuzuke/)
+- [Hello Programmer!](./2026May/Hello%20Programmer!/)
+    Admin Bot
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
