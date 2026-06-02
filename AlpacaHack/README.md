@@ -92,6 +92,8 @@
 - [Kakuzuke](./2026May/Kakuzuke/)
 - [Hello Programmer!](./2026May/Hello%20Programmer!/)
     Admin Bot
+- [Cache Me If You Can](./2026Jun/Cache%20Me%20If%20You%20Can.md)
+    nginx cache bypass
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
