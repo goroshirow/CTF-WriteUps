@@ -133,3 +133,5 @@
     Pyjail/help()
 - [Python:Impossible](./2026May/Python-Impossible/)
 - [Catrunner](./2026May/Catrunner/)
+- [vm1](./2026Jun/vm1.md)
+    JSjail
