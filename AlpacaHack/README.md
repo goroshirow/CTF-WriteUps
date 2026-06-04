@@ -34,6 +34,7 @@
     有限体上のn乗根
 - [I cannot decrypt RSA](./2026May/I%20cannot%20decrypt%20RSA/)
     RSA/$`\phi=(p+1)(q+1)`$
+- [Small e](./2026Jun/Small%20e.md)
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
