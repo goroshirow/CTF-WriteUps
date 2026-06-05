@@ -136,3 +136,4 @@
 - [Catrunner](./2026May/Catrunner/)
 - [vm1](./2026Jun/vm1.md)
     JSjail
+- [RPS GAME](./2026Jun/RPS%20GAME.md)
