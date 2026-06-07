@@ -57,6 +57,7 @@
 - [crazython](./2026Jan/crazython/)
 - [system-v](./2026Jan/system-v/)
 - [Conquer Ultimate Device Abyss](./2026May/Conquer%20Ultimate%20Device%20Abyss/)
+- [C++ flag checker](./2026Jun/C++%20flag%20checker.md)
 
 ## Web
 - [Xmas Login](./2025Dec/Xmas%20Login/)
