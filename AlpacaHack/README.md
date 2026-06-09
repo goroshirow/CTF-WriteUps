@@ -35,6 +35,8 @@
 - [I cannot decrypt RSA](./2026May/I%20cannot%20decrypt%20RSA/)
     RSA/$`\phi=(p+1)(q+1)`$
 - [Small e](./2026Jun/Small%20e.md)
+- [A Piece of DHKE](./2026Jun/A%20Piece%20of%20DHKE.md)
+    DHKE
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
