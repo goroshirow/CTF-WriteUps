@@ -98,6 +98,8 @@
     Admin Bot
 - [Cache Me If You Can](./2026Jun/Cache%20Me%20If%20You%20Can.md)
     nginx cache bypass
+- [Look like AlpacaHack](./2026Jun/Look%20like%20Alpacahack.md)
+    Admin Bot
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
