@@ -142,3 +142,5 @@
 - [vm1](./2026Jun/vm1.md)
     JSjail
 - [RPS GAME](./2026Jun/RPS%20GAME.md)
+- [Flag Printer 20XX](./2026Jun/Flag%20Printer%2020XX.md)
+    PyObject
