@@ -37,6 +37,8 @@
 - [Small e](./2026Jun/Small%20e.md)
 - [A Piece of DHKE](./2026Jun/A%20Piece%20of%20DHKE.md)
     DHKE
+- [xorshift521](./2026Jun/xorshift521.md)
+    Xorshift
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
