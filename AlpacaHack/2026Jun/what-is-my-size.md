@@ -174,3 +174,8 @@ usable_size(buf_2): 24
 00      00      00      00      00      00      00      00      <- data
 00      00      00      00      00      00      00      00      <- data
 ```
+
+## / Reference
+
+* [1] kaityo256. mallocの動作を追いかける(prev_size編). https://qiita.com/kaityo256/items/2e9a368a5b627daa2ff6
+* [2] SANACHAN. mallocの動的メモリ管理構造. https://progzakki.sanachan.com/program-lang/c/malloc-chunk-structure/
