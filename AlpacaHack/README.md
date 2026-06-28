@@ -55,6 +55,8 @@
     GOT Overwrite
 - [what-is-my-size](./2026Jun/what-is-my-size.md)
     mallocヘッダ
+- [Only forward](./2026Jun/Only%20forward.md)
+    カナリアリーク/libcベースリーク
 
 ## Rev
 - [Useful Machine](./2025Dec/Useful%20Machine/)
@@ -105,6 +107,8 @@
     nginx cache bypass
 - [Look like AlpacaHack](./2026Jun/Look%20like%20Alpacahack.md)
     Admin Bot
+- [Style Your Alpaca](./2026Jun/Style%20Your%20Alpaca.md)
+    CSSインジェクション
 
 ## Misc
 - [cat3](./2025Dec/cat3/)
