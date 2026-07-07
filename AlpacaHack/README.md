@@ -40,6 +40,8 @@
 - [xorshift521](./2026Jun/xorshift521.md)
     Xorshift
 - [honk the klaxon](./2026Jun/honk%20the%20klaxon.md)
+- [missing ✌️](./2026Jul/missing%20✌️.md)
+- [Lazy RSA](./2026Jul/Lazy%20RSA.md)
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
