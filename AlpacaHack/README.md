@@ -42,6 +42,8 @@
 - [honk the klaxon](./2026Jun/honk%20the%20klaxon.md)
 - [missing ✌️](./2026Jul/missing%20✌️.md)
 - [Lazy RSA](./2026Jul/Lazy%20RSA.md)
+- [Let's Poly1305!](./2026Jul/Let's%20Poly1305!.md)
+    Poly1305
 
 ## Pwn
 - [simpleoverwrite](./2025Dec/simpleoverwrite/)
