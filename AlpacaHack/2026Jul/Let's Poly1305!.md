@@ -92,3 +92,9 @@ print(f"{target_hex = }")
 
 print(p.recvall())
 ```
+
+## / Reference
+
+[1] 晴耕雨読.「ChaCha20-Poly1305の解説と実装」. tex2e.github.io/blog/crypto/chacha20poly1305
+
+[2] Nir, Y., & Langley, A. (2015). ChaCha20 and Poly1305 for IETF Protocols (RFC 7539). RFC Editor. https://doi.org/10.17487/RFC7539
