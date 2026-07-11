@@ -61,6 +61,8 @@
     mallocヘッダ
 - [Only forward](./2026Jun/Only%20forward.md)
     カナリアリーク/libcベースリーク
+- [A slight mistake](./2026Jul/A%20slight%20mistake.md)
+    Stack Pivot
 
 ## Rev
 - [Useful Machine](./2025Dec/Useful%20Machine/)
