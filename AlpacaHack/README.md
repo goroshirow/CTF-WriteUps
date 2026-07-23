@@ -159,3 +159,5 @@
 - [RPS GAME](./2026Jun/RPS%20GAME.md)
 - [Flag Printer 20XX](./2026Jun/Flag%20Printer%2020XX.md)
     PyObject
+- [jinjail](./2026Jul/jinjail.md)
+    jinja2 / SandboxEnvironment / TOCTOU
